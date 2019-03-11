@@ -9,4 +9,6 @@ mean(x)
 
 mean (y) 
 summary(x)
+#kts addition
+summary(y)
 
