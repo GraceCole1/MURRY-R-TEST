@@ -7,5 +7,7 @@ plot(x,y)
 
 mean(x)
 
+mean (y) 
+
 
 
